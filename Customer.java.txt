@@ -1,1 +1,6 @@
-private String name;
+class Customer{
+
+   class Person{
+
+}
+}
