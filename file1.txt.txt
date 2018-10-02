@@ -1,4 +1,0 @@
-Public
-protected
-private
-default
