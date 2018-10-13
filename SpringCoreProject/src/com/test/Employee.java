@@ -1,5 +1,7 @@
 package com.test;
 
+import java.lang.*;
+
 public class Employee {
 
 	private int id = 0;
