@@ -1,8 +1,6 @@
 package com.test;
 
 
-amit
-ye ladka badmas ho gaya
 public class Employee {
 
 	private int id = 0;
