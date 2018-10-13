@@ -1,6 +1,6 @@
 package com.test;
 
-import java.lang.*;
+
 
 public class Employee {
 
