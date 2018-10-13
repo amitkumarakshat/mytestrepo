@@ -1,6 +1,0 @@
-class Customer{
-
-   class Person{
-
-}
-}
