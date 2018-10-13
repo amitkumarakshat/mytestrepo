@@ -11,6 +11,8 @@ import org.springframework.context.annotation.Lazy;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Component;
 
+import java.lang.*;
+
 /*@Component("classA")
  class ClassA implements ApplicationContextAware, InitializingBean {
 
