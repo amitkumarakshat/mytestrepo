@@ -1,6 +1,6 @@
 package com.test;
 
-
+// Emp Pojo class
 public class Employee {
 
 	private int id = 0;
