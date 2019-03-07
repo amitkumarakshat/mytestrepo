@@ -3,7 +3,7 @@ package com.test;
 import javax.annotation.PostConstruct;
 
 
-
+//Simple class
 public class Simple {
 
 	
