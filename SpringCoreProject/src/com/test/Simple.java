@@ -2,8 +2,7 @@ package com.test;
 
 import javax.annotation.PostConstruct;
 
-import org.springframework.stereotype.Component;
-import org.springframework.transaction.annotation.Transactional;
+
 
 public class Simple {
 
