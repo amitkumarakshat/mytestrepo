@@ -4,6 +4,7 @@ import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 import org.springframework.stereotype.Component;
 
+// Simple1 class
 @Component
 public class Simple1 implements DisposableBean,InitializingBean{
 
