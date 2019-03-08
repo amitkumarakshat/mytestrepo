@@ -8,4 +8,5 @@ public class AAA {
   int amit = 0;
   int sumit = 0;
   int anaj = 0;
+  int ok =0;
 }
