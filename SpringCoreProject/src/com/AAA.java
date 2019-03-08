@@ -6,4 +6,5 @@ public class AAA {
   int dd = 0;
   int jj = 0;
   int amit = 0;
+  int sumit = 0;
 }
