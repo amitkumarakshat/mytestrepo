@@ -9,4 +9,5 @@ public class AAA {
   int sumit = 0;
   int anaj = 0;
   int ok =0;
+  float bb = 0.0f;
 }
