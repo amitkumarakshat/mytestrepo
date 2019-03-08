@@ -7,5 +7,9 @@ public class BBB {
    int fine = 0;
    double dddd = 0.0d;
    int nnn = 0;
+   
+   
+   
+   int amit = 0;
 
 }
