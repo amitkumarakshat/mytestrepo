@@ -7,4 +7,5 @@ public class AAA {
   int jj = 0;
   int amit = 0;
   int sumit = 0;
+  int anaj = 0;
 }
