@@ -12,5 +12,7 @@ public class BBB {
    
    int amit = 0;
    /*amit kumar*/
+   int t=0;
+   int kkk=0;
 
 }
