@@ -7,6 +7,7 @@ public class AAA {
 	   /* comment*/
 
 	   /* ok got it */
+	   /*amit kumar*/
 
    }
 		  
