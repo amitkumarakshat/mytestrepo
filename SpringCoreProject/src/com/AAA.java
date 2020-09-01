@@ -7,8 +7,9 @@ public class AAA {
 	   /* comment*/
 
 	   /* ok got it */
-	   /*amit kumar*/
-	   /*addding one more */
+	   /*amit kumar*/	  
+	   System.out.println("1");
+	   System.out.println("2");
 
    }
 		  
