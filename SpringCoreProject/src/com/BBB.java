@@ -14,5 +14,9 @@ public class BBB {
    /*amit kumar*/
    int t=0;
    int kkk=0;
+   private void syso() {
+	// TODO Auto-generated method stub
+
+}
  
 }
