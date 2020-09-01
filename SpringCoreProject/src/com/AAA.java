@@ -5,6 +5,7 @@ public class AAA {
 	   System.out.println("welcome to my home");
 
 	  System.out.println("3");
+	  System.out.println("add lines");
 
 
    }
