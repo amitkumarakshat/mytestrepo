@@ -14,7 +14,5 @@ public class BBB {
    /*amit kumar*/
    int t=0;
    int kkk=0;
-   
-   int amitt=11;
-
+ 
 }
